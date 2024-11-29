@@ -193,3 +193,13 @@ body {
   li{
     list-style: none;
   }
+
+  .myimg{
+    height: 400px;
+    width: 400px;
+    position: fixed;
+    border-radius: 10ch;
+    margin: 50px;
+    margin-top: 150px;
+    /* margin-right: 150px; */
+  }
